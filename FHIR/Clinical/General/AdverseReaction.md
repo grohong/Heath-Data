@@ -94,7 +94,7 @@ Exposure 클래스는 반응 이전의 노출 세트를 나타내는 데 사용�
     - Control: 0..1
     - Type: [Resource](https://www.hl7.org/fhir/DSTU1/references.html#Resource)([Substance](https://www.hl7.org/fhir/DSTU1/substance.html))
 
-``` json
+``` javascript
 {
   "resourceType": "AdverseReaction",
   "text": {
